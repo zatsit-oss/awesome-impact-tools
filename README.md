@@ -44,7 +44,7 @@ Notre approche est légèrement différente,
 
 ## Librairies
 
-- [EcoLogits](https://ecologits.ai/latest/): Bibliothèque suivant la consommation d'énergie et l'empreinte environnementale de l'utilisation de modèles d'IA génératifs via des API. Créé et maintenu par l'association [GenAi Impact](https://genai-impact.org/). Cette librairie possède aussi un [calculateur en ligne](https://huggingface.co/spaces/genai-impact/ecologits-calculator)).</br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![z-status][not_tested]
+- [EcoLogits](https://ecologits.ai/latest/): Bibliothèque suivant la consommation d'énergie et l'empreinte environnementale de l'utilisation de modèles d'IA génératifs via des API. Créé et maintenu par l'association [GenAi Impact](https://genai-impact.org/). Cette librairie possède aussi un [calculateur en ligne](https://huggingface.co/spaces/genai-impact/ecologits-calculator).</br> ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![z-status][not_tested]
 
 
 ## Autres dépots sur la thématique green
