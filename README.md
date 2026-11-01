@@ -11,6 +11,8 @@
 
 # zatsit awesome impact tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![License: MIT](https://img.shields.io/github/license/zatsit-oss/awesome-impact-tools)](LICENSE) [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)
+
 ## Pourquoi un énième dépôt listant des outils green ?
 
 Oui, [il existe déjà des dépots](#autres-dépots-sur-la-thématique-green) listant des ressources sur le green it.
